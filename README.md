@@ -4,21 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet-wadkar&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet-wadkar" /> </p>
 
-- 🔭 I’m currently working on **at TeamLease Regtech**
+- I’m currently interning at **TeamLease Regtech** as a Software Engineer Intern.
+- I’m currently learning **LangChain, LangGraph.**
+- I’m looking to collaborate on **Agentic AI Projects**. Looking for help with **Optimising memory while building AI Agents**
 
-- 🌱 I’m currently learning **LangChain, LangGraph.**
+  I sometimes write articles on [https://medium.com/@ranjeetwadkar01](https://medium.com/@ranjeetwadkar01)
 
-- 👯 I’m looking to collaborate on **Agentic AI Projects**
+Ask me about **Autogen** (I'll try my best).
 
-- 🤝 I’m looking for help with **Optimising memory while building AI Agents**
+- 📫 How to reach me **ranjeetwadkar01gmail.com**
 
-- 📝 I regularly write articles on [https://medium.com/@ranjeetwadkar01](https://medium.com/@ranjeetwadkar01)
-
-- 💬 Ask me about **Autogen**
-
-- 📫 How to reach me **ranjeetwadkar**
-
-- ⚡ Fun fact **I prepared for NEET (medical exam) right up until I started my B.E. in AIML.**
+Fun fact about me: **I prepared for NEET (medical exam) right up until I started my B.E. in AIML and I started coding in my 6th grade (when i was 12)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
