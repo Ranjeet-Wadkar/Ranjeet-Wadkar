@@ -2,15 +2,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet-wadkar&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet-wadkar" /> </p>
 
-- I’m interning at **TeamLease Regtech** as a Software Engineer Intern. I'm expanding my Agentic AI experience, after building stuff in **Autogen**, moving towards **LangChain, LangGraph.** I’m looking to collaborate on any kinds of projects, as long as you make me see the vision/the love for the project. Looking for help with **Optimising memory while building AI Agents** (contact me on linkedin/mail to discuss if you have any insights that would help).
-You can ask me about **Autogen** (I'll try my best).
+I’m interning at **TeamLease Regtech** as a Software Engineer Intern. I'm expanding my Agentic AI experience, after building stuff in **Autogen**, moving towards *LangChain, LangGraph.* I’m looking to collaborate on any kinds of projects, as long as you help me see the vision/the love for the project. Looking for help with **Optimising memory while building AI Agents** (contact me to discuss if you have any insights that would help). You can ask me about Autogen (I'll try my best).
+
+More Contributions on my work account, but can't share it for security reasons.
+
+[Resume](https://drive.google.com/file/d/17NU-NrAInaVkg36sMPnNSIpEujPVpdOX/view?usp=sharing)
 
 2 fun facts about me: **I prepared for the NEET (medical exam) right up and until I started my B.E. in AIML. I started coding in my 6th grade (when i was 12).**
-I sometimes write articles on [https://medium.com/@ranjeetwadkar01](https://medium.com/@ranjeetwadkar01)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ranjeetwadkar01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjeetwadkar01" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/ranjeet-wadkar-b660b8256" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeet-wadkar-b660b8256" height="30" width="40" /></a>
+<a href="https://twitter.com/ranjeetwadkar01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranjeetwadkar01" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23843545" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23843545" height="30" width="40" /></a>
 <a href="https://instagram.com/ranjeet.wadkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranjeet.wadkar" height="30" width="40" /></a>
 <a href="https://medium.com/@ranjeetwadkar01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ranjeetwadkar01" height="30" width="40" /></a>
@@ -22,4 +26,6 @@ I sometimes write articles on [https://medium.com/@ranjeetwadkar01](https://medi
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeet-wadkar&show_icons=true&locale=en&layout=compact" alt="ranjeet-wadkar" /></p>
 
+
+Thank you for reading my GitHub profile!
 
