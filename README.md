@@ -2,12 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet-wadkar&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet-wadkar" /> </p>
 
-I’m interning at **TeamLease Regtech** as a Software Engineer Intern. I'm expanding my Agentic AI experience, after building stuff in **Autogen**, moving towards *LangChain, LangGraph.* I’m looking to collaborate on any kinds of projects, as long as you help me see the vision/the love for the project. Looking for help with **Optimising memory while building AI Agents** (contact me to discuss if you have any insights that would help). You can ask me about Autogen (I'll try my best).
+I’m currently a **Software Engineer Intern** at **TeamLease RegTech**. After diving deep into web development, I’m now expanding my Agentic AI journey—started with **Autogen**, and now exploring *LangChain, LangGraph.* I’m looking to collaborate on all kinds of projects, as long as you help me see the vision/the passion for the project. Looking for help with **optimising memory in AI Agent architectures** (connect if you can). You can ask me about Autogen (I'll try my best).
 
-More Contributions on my work account, but can't share it here for security reasons.
+More contributions on my work account. (mostly Python-heavy stuff)
 
-[Resume](https://drive.google.com/file/d/17NU-NrAInaVkg36sMPnNSIpEujPVpdOX/view?usp=sharing) &
-[LinkedIn](https://www.linkedin.com/in/ranjeet-wadkar-b660b8256/)
+[_Resume_](https://drive.google.com/file/d/17NU-NrAInaVkg36sMPnNSIpEujPVpdOX/view?usp=sharing) &
+[_LinkedIn_](https://www.linkedin.com/in/ranjeet-wadkar-b660b8256/)
 
 2 fun facts about me: **I prepared for the NEET (medical exam) right up and until I started my B.E. in AIML. I started coding in my 6th grade (when i was 12).**
 
@@ -28,5 +28,5 @@ More Contributions on my work account, but can't share it here for security reas
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeet-wadkar&show_icons=true&locale=en&layout=compact" alt="ranjeet-wadkar" /></p>
 
 
-Thank you for reading my GitHub profile!
+Thank you for reading!
 
