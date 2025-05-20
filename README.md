@@ -1,18 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Ranjeet Wadkar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">I love building things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeet-wadkar&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeet-wadkar" /> </p>
 
-- I’m currently interning at **TeamLease Regtech** as a Software Engineer Intern.
-- I’m currently learning **LangChain, LangGraph.**
-- I’m looking to collaborate on **Agentic AI Projects**. Looking for help with **Optimising memory while building AI Agents**
+- I’m interning at **TeamLease Regtech** as a Software Engineer Intern. I'm expanding my Agentic AI experience, after building stuff in **Autogen**, moving towards **LangChain, LangGraph.** I’m looking to collaborate on **Agentic AI Projects**. Looking for help with **Optimising memory while building AI Agents** (contact me on linkedin to discuss if you have any insights that would help).
 
-  I sometimes write articles on [https://medium.com/@ranjeetwadkar01](https://medium.com/@ranjeetwadkar01)
+I sometimes write articles on [https://medium.com/@ranjeetwadkar01](https://medium.com/@ranjeetwadkar01)
 
-Ask me about **Autogen** (I'll try my best).
+You can ask me about **Autogen** (I'll try my best).
 
-- 📫 How to reach me **ranjeetwadkar01gmail.com**
+- _Mail_:  **ranjeetwadkar01gmail.com**
 
 Fun fact about me: **I prepared for NEET (medical exam) right up until I started my B.E. in AIML and I started coding in my 6th grade (when i was 12)**
 
